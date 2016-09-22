@@ -6,7 +6,7 @@ public class PlayableNote {
 		HALF_NOTE  (2.0f),
 		DOTED_QUARTER_NOTE  (1.5f),
 		QUARTER_NOTE  (1.0f),
-		EÝGHTH_NOTE  (0.5f);
+		EIGHTH_NOTE  (0.5f);
 		
 		private float mNoteMeasure;
 		
